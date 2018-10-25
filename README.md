@@ -9,4 +9,4 @@ To run the application, enter
 
 `node app.js`
 
-A `file.pdf` will be generated.
+A `file.pdf` will be generated with some figures.
